@@ -20,8 +20,8 @@ In this section, we designed a Flask API based on the queries we developed in th
 
 
 
+![Screenshot_homepage](https://github.com/user-attachments/assets/9247d9b3-60ab-463e-9745-de11acd6f12d)
 
-        ![Screenshot_homepage](https://github.com/user-attachments/assets/8655f126-350f-441b-8c4a-1a5dba85212a)
 
 
 We used **jsonify** function to convert our API data to a valid JSON response object.     
