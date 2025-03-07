@@ -8,16 +8,49 @@ In this section, we use the SQLAlchemy's **create_engine()** function to connect
 We also used the **automap_base()** function to reflect our tables into classes.   
 Linked our python application to the database by creating a SQLAlchemy session.    
 
-We have done the Precipitation Analysis and Station Analysis based on the data from the database.        
+We have done the Precipitation Analysis and Station Analysis based on the data from the database.      
+              
         
 ## Part 2: Design Your Climate App
 
 In this section, we designed a Flask API based on the queries we developed in the previous analysis. app.py file contains the detailed code.
+            
 
 
 
 
-![Screenshot_homepage](https://github.com/user-attachments/assets/973f986f-a303-4bb3-9f1a-3503f86f92c8)
+
+
+        ![Screenshot_homepage](https://github.com/user-attachments/assets/8655f126-350f-441b-8c4a-1a5dba85212a)
+
+
+We used **jsonify** function to convert our API data to a valid JSON response object.     
+
+run the code in any VSCode application or on any terminal/git bash.    
+
+If you dont have the dependencies. We might have to install Flask, SQLAlchemy etc according to your settings.     
+
+      
+> pip install Flask SQLAlchemy
+> pip install psycopg2
+> pip install Flask
+        
+# Acknowledgement
+          
+I have done this challenge with the help of my Instructor and some internet searches.      
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
