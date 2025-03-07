@@ -17,9 +17,10 @@ In this section, we designed a Flask API based on the queries we developed in th
 
 
 
+![Screenshot_homepage](https://github.com/user-attachments/assets/973f986f-a303-4bb3-9f1a-3503f86f92c8)
 
 
-        ![Screenshot_homepage](https://github.com/user-attachments/assets/8655f126-350f-441b-8c4a-1a5dba85212a)
+
 
 
 
