@@ -31,9 +31,9 @@ run the code in any VSCode application or on any terminal/git bash.
 If you dont have the dependencies. We might have to install Flask, SQLAlchemy etc according to your settings.     
 
       
-> pip install Flask SQLAlchemy
-> pip install psycopg2
-> pip install Flask
+> pip install Flask SQLAlchemy         
+> pip install psycopg2               
+> pip install Flask                 
         
 # Acknowledgement
           
