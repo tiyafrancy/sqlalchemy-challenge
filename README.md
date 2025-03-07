@@ -12,13 +12,17 @@ We have done the Precipitation Analysis and Station Analysis based on the data f
         
 ## Part 2: Design Your Climate App
 
-In this section, we designed a Flask API based on the queries we developed in the previous analysis. app.py file contains the detailed code. 
+In this section, we designed a Flask API based on the queries we developed in the previous analysis. app.py file contains the detailed code.
 
 
 
 
 
-        
+
+        ![Screenshot_homepage](https://github.com/user-attachments/assets/8655f126-350f-441b-8c4a-1a5dba85212a)
+
+
+
 
 
 
